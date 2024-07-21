@@ -35,7 +35,7 @@ body {
 .botao-adiciona {
     margin: 25px 2.2%;
     width: 19.5%;
-    height: 360px;
+    height: 60vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -64,7 +64,7 @@ body {
 .tarefa {
     margin: 25px 2.2%;
     width: 19.5%;
-    height: 350px;
+    height: 59vh;
     border: 5px solid var(--cor-primaria-alterada);
     border-radius: 20px;
     display: flex;
